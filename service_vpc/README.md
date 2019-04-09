@@ -27,7 +27,7 @@ positional arguments:
 
 optional arguments:
   -h, --help        show this help message and exit
-  -y, --yaml        Output to JSON
+  -y, --yaml        Output to YAML
 ```
     
 ### Output
